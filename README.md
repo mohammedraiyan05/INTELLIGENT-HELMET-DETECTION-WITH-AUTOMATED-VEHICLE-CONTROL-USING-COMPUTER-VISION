@@ -60,9 +60,13 @@ The result is sent wirelessly to NodeMCU via WiFi.
 - pip install ultralytics
 - pip install requests
 
+---
+
 ### 2️⃣ Place your trained model
 
 - Put best.pt in the project directory.
+
+---
 
 ### 3️⃣ Update ESP IP Address
 
