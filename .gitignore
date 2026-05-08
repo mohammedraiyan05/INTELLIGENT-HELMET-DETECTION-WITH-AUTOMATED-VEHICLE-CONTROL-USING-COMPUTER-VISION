@@ -60,7 +60,7 @@ temp/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb  # Uncomment to ignore all notebooks
 
 # Machine Learning Models (optional - uncomment if needed)
 # *.pt
