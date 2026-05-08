@@ -4,7 +4,7 @@ An AI-powered real-time helmet detection system using YOLOv8 for intelligent com
 
 This project enables vehicle automation by detecting whether a driver is wearing a helmet, and automatically grants or denies vehicle operation accordingly by controlling the vehicle's ignition system through a relay module wirelessly.
 
----
+--- 
 
 ## 🚀 Project Overview
 
